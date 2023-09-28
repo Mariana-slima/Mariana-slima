@@ -1,8 +1,8 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil da Mari! 😁
 
  <div>
    <a href="https://github.com/Mariana-slima">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mariana-slima&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mariana-slima&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariana-slima&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
